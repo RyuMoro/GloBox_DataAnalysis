@@ -15,6 +15,6 @@ GloBox_MasteryProject_Ryunosuke_Morohara.twbx:
 Statistical Analysis Report_ Impact of Food and Drink Banner on GloBox.docx:
   A technical report.
 
-Here is the link for [[Tableu Publich workbook]](https://public.tableau.com/app/profile/ryunosuke.morohara/viz/GloBox_MasteryProject/ABTestKPIs).
+Here is the link for [[Tableu Publich workbook]](https://public.tableau.com/app/profile/ryunosuke.morohara/viz/GloBox_MasteryProject/ABTestKPIs).<br>
 Below are some images from the workbook.
 
