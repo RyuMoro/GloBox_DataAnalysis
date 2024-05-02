@@ -11,7 +11,7 @@ This is a collection of files for the final project of [Masterschool](https://ww
 **GloBox A_B Test_Analysis _ Raw Data:**<br>
   Excel file for hypothesis testing.
 
-**GloBox_MasteryProject_Ryunosuke_Morohara.twbx:**<br>
+**GloBox_MasteryProject.twbx:**<br>
   Tableu file.
 
 **Statistical Analysis Report_ Impact of Food and Drink Banner on GloBox.docx:**<br>
